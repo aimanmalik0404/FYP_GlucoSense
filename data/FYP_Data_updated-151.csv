@@ -1,0 +1,154 @@
+No.,Name,Gender,Age,Weight,History,Meal/Fast,Dia/Non,Thickness (cm),Invasive,Non-Invasive
+1,Samreen,F,21,56,No,2,Non,4.8,124,166
+2,Urwah,F,21,58,Yes,2,Non,4.8,126,168
+3,Anwar,M,22,66,No,2,Non,4.8,107,131
+4,Junaid,M,21,72,Yes,2,Non,5.5,114,94
+5,Anam,F,21,43,No,1,Non,4.6,124,174
+6,Ayesha,F,21,45,No,1,Non,4.1,120,168
+7,Usama bhai,M,32,84,Yes,0,Dia,5.4,148,166
+8,Sana Ullah,M,48,70,No,2.5,Non,5.8,133,144
+9,Dilbar Hussain,M,60,100,No,2.5,Dia,6,333,163
+10,Arshad,M,50,70,No,0,Dia,5.7,323,148
+11,Ghulam Mohiudin,M,53,75,Yes,3,Dia,6.2,441,171
+12,Sugra Bibi,F,65,50,No,0,Non,5,181,162
+13,Shehnaz,F,55,80,No,1.5,Non,5.3,142,133
+14,Abdul Qh Rasheed,M,60,90,Yes,0.5,Dia,6.1,314,192
+15,Hafiza Bibi,F,47,60,Yes,0,Dia,5.7,263,165
+16,Shehzad Shaukat,M,40,70,Yes,0.5,Non,5.4,121,178
+17,Musawer Ali,M,39,75,No,0.5,Non,5.6,125,173
+18,Muhammad Azam,M,62,85,Yes,1,Dia,5.9,189,189
+19,Muhammad Pervaiz,M,55,60,Yes,0,Non,5.2,90,130
+20,Muhammad Iqbal,M,80,70,No,0.5,Dia,6,206,186
+21,Naheed,F,40,55,Yes,3,Dia,6.5,494,194
+22,M. Adrees,M,44,68,No,0,Dia,6.3,480,174
+23,Zara,F,22,54,No,2,Non,4.7,118,160
+24,Hina,F,23,50,Yes,2,Non,4.6,110,172
+25,Bilal,M,24,68,No,2,Non,4.9,115,135
+26,Waleed,M,21,74,Yes,2,Non,5.6,120,90
+27,Rabia,F,22,42,No,1,Non,4.5,122,170
+28,Maham,F,21,47,No,1,Non,4.2,119,165
+29,Amir,M,35,88,Yes,0,Dia,5.5,150,168
+30,Rehan Ullah,M,49,72,No,2.5,Non,5.9,135,146
+31,Ashfaq Khan,M,58,102,No,2.5,Dia,6.1,340,165
+32,Tariq,M,52,73,No,0,Dia,5.8,328,150
+33,Javaid Ahmed,M,54,77,Yes,3,Yes,6.3,450,175
+34,Sajid,M,51,72,Yes,3,Non,6.1,135,220
+35,Alina,F,66,52,No,0,Non,5,185,160
+36,Uzma,F,56,82,Yes,1.5,Non,5.2,145,138
+37,Nasir,M,61,92,Yes,0.5,Dia,6.4,320,190
+38,Sadia,F,48,62,Yes,0,Dia,5.9,275,168
+39,Shahid Ali,M,41,69,Yes,0.5,Dia,5.1,123,180
+40,Bashir Ahmed,M,58,85,Yes,2,Dia,6.1,310,178
+41,Hina Khalid,F,26,50,No,1,Non,4.3,118,169
+42,Raza Ullah,M,45,78,No,3,Non,5.5,135,160
+43,Nazia,F,55,68,Yes,1,Dia,5.9,298,162
+44,Aslam,M,60,75,No,0,Dia,6.3,315,185
+45,Mehwish,F,42,58,Yes,0.5,Dia,5.5,250,149
+46,Sohail,M,50,82,Yes,2,Dia,6.1,330,190
+47,Faiza,F,45,60,No,1.5,Dia,5.6,270,172
+48,Irfan,M,39,90,Yes,0.5,Dia,6.4,312,160
+49,Sundas,F,34,56,No,2,Dia,5.8,265,155
+50,Naeem,M,52,77,Yes,3,Dia,6.2,345,178
+51,Fatima,F,38,63,Yes,0.5,Dia,5.5,225,148
+52,Amna,F,40,61,No,2,Dia,5.6,210,151
+53,Asif,M,65,80,Yes,3,Dia,6.6,410,195
+54,Abrar,M,43,88,No,2,Dia,6,295,180
+55,Tayyaba,F,49,70,Yes,0.5,Dia,5.7,288,158
+56,Kashif,M,46,78,No,0,Dia,6.3,300,182
+57,Fozia,F,59,55,No,0,Dia,5.9,215,143
+58,Adnan,M,36,85,Yes,0.5,Dia,6.1,278,160
+59,Sara,F,29,50,No,1,Non,4.5,110,170
+60,Talha,M,27,72,Yes,2,Non,4.9,115,140
+61,Neha,F,26,53,No,1,Non,4.3,105,169
+62,Hassan,M,25,76,No,2,Non,5.2,120,145
+63,Zoya,F,30,49,No,1,Non,4.6,108,162
+64,Murtaza,M,47,92,Yes,0.5,Dia,6,288,175
+65,Shagufta,F,52,66,No,1.5,Dia,5.7,263,159
+66,Sarmad,M,55,89,Yes,3,Dia,6.5,385,187
+67,Nargis,F,48,64,Yes,1.5,Dia,5.8,250,167
+68,Tariq Mehmood,M,60,81,No,0,Dia,6.6,395,192
+69,Nimra,F,39,57,Yes,1,Dia,5.6,232,155
+70,Zubair,M,58,86,Yes,3,Dia,6.4,365,179
+71,Amber,F,36,59,No,2,Dia,5.7,222,150
+72,Farhan,M,42,74,Yes,0.5,Dia,6.2,290,173
+73,Zubair,M,58,85,Yes,0.5,Dia,6.2,305,172
+74,Farzana,F,62,65,Yes,1.5,Dia,5.6,270,160
+75,Jawad Ali,M,64,90,Yes,0,Dia,6.3,332,180
+76,Shahida Parveen,F,55,75,Yes,2,Dia,5.5,298,158
+77,Waqas Khan,M,52,80,No,1,Dia,6,220,140
+78,Areeba,F,49,60,Yes,0.5,Dia,5.7,276,150
+79,Kashif Mehmood,M,61,85,Yes,1,Dia,6.4,340,170
+80,Saima Bibi,F,60,68,Yes,0,Dia,5.8,290,155
+81,Abid Hussain,M,66,92,No,2,Dia,6.1,265,164
+82,Nida,F,59,70,Yes,1.5,Dia,5.4,245,150
+83,Danish Ali,M,63,87,Yes,0.5,Dia,6.3,318,176
+84,Saeed Ahmed,M,57,83,No,1,Dia,6.2,268,149
+85,Mehnaz,F,54,66,Yes,1.5,Dia,5.9,250,145
+86,Yasir Butt,M,65,88,Yes,2,Dia,6.5,355,172
+87,Fozia,F,62,72,Yes,1,Dia,5.6,278,157
+88,Asad,M,67,90,No,1.5,Dia,6.4,315,160
+89,Mahnoor,F,51,64,Yes,0.5,Dia,5.5,239,146
+90,Tanveer,M,68,95,Yes,0,Dia,6.6,370,180
+91,Rabia Anwar,F,60,70,Yes,2,Dia,5.7,255,150
+92,Zeeshan Tariq,M,59,88,Yes,0.5,Dia,6.3,322,168
+93,Talha,M,26,72,No,2,Non,4.9,90,140
+94,Ijaz,M,69,100,No,2,Non,5.3,110,160
+95,Sajda,F,46,72,Yes,2.5,Non,5.2,283,136
+96,Bindya,F,30,120,Yes,1.5,Non,5.6,150,178
+97,Hussain,M,65,70,No,0,Dia,5,127,173
+98,Zahid,F,45,65,No,2,Dia,5.4,157,280
+99,Liaqat,M,65,72,Yes,3,Dia,5.1,241,105
+100,Khalil,M,60,85,No,0,Dia,5.3,156,205
+101,Intizar,M,60,70,No,0,Non,5.2,133,175
+102,Ahmad Khan,M,32,84,Yes,0,Dia,5.4,148,166
+103,Bilal Ahmed,M,60,100,No,2.5,Dia,6,333,163
+104,Ali Hassan,M,50,70,No,0,Dia,5.7,323,148
+105,Imran Malik,M,53,75,Yes,3,Dia,6.2,441,171
+106,Sofia Ali,F,55,80,No,1.5,Dia,5.3,142,133
+107,Asad Malik,M,60,90,Yes,0.5,Dia,6.1,314,192
+108,Zara Bibi,F,47,60,Yes,0,Dia,5.7,263,165
+109,Shahid Zafar,M,40,70,Yes,0.5,Dia,5.4,121,178
+110,Usman Nawaz,M,39,75,No,0.5,Dia,5.6,125,173
+111,Arif Khan,M,62,85,Yes,1,Dia,5.9,189,189
+112,Kamran Shah,M,55,60,Yes,0,Non,5.2,90,130
+113,Naveed Iqbal,M,80,70,No,0.5,Dia,6,206,186
+114,Sara Malik,F,40,55,Yes,3,Dia,6.5,494,194
+115,Bilal Shah,M,44,68,No,0,Dia,6.3,480,174
+116,Rashid Farooq,M,47,92,Yes,0.5,Dia,6,288,175
+117,Saba Rehman,F,52,66,No,1.5,Dia,5.7,263,159
+118,Tahir Khan,M,55,89,Yes,3,Dia,6.5,385,187
+119,Fatima Noor,F,48,64,Yes,1.5,Dia,5.8,250,167
+120,Faisal Raza,M,60,81,No,0,Dia,6.6,395,192
+121,Nadia Jamil,F,39,57,Yes,1,Dia,5.6,232,155
+122,Samiullah,M,58,86,Yes,3,Dia,6.4,365,179
+123,Ayesha Riaz,F,36,59,No,2,Dia,5.7,222,150
+124,Rehan Shah,M,42,74,Yes,0.5,Dia,6.2,290,173
+125,Kashif Ali,M,58,85,Yes,0.5,Dia,6.2,305,172
+126,Maria Iqbal,F,62,65,Yes,1.5,Dia,5.6,270,160
+127,Jameel Hassan,M,64,90,Yes,0,Dia,6.3,332,180
+128,Samina Riaz,F,55,75,Yes,2,Dia,5.5,298,158
+129,Ahmed Bilal,M,52,80,No,1,Non,6,220,140
+130,Kashan Raza,M,61,85,Yes,1,Dia,6.4,340,170
+131,Rukhsar Bibi,F,60,68,Yes,0,Dia,5.8,290,155
+132,Sara Iqbal,F,21,56,No,2,Non,4.8,124,166
+133,Hina Farooq,F,21,58,Yes,2,Non,4.8,126,168
+134,Ali Jamil,M,22,66,No,2,Non,4.8,107,131
+135,Jamil Ahmed,M,21,72,Yes,2,Non,5.5,114,94
+136,Nida Ali,F,21,43,No,1,Non,4.6,124,174
+137,Sobia Rehman,F,21,45,No,1,Non,4.1,120,168
+138,Maira Zafar,F,22,54,No,2,Non,4.7,118,160
+139,Wajid Shah,M,23,50,Yes,2,Non,4.6,110,172
+140,Osama Raza,M,24,68,No,2,Non,4.9,115,135
+141,Ayesha,F,21,74,Yes,2,Non,5.6,120,90
+142,Afeef,M,29,70,No,0,Non,5,97,89
+143,Ali,M,30,71,Yes,1,Non,5.2,98,90
+144,Iqra,F,31,72,No,2,Non,5.1,99,91
+145,Faisal,M,32,73,Yes,1,Non,5.3,100,92
+146,Hassan,M,33,74,No,0,Non,5,95,87
+147,Bilal,M,34,75,Yes,2,Non,5.4,101,93
+148,Imran,M,35,76,No,1,Non,5.2,94,86
+149,Zain,M,36,77,Yes,0,Non,5.5,102,94
+150,Sami,M,37,78,No,2,Non,5.6,96,88
+151,Asif,M,38,79,Yes,1,Non,5.3,103,95
+152,Ghulam Mohiudin,M,52,62,Yes,2.5,Dia,5.2,188,98
+153,Aiman,F,22,47,Yes,0.5,Non,4.3,133,200
